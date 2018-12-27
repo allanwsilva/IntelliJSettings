@@ -1,9 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="1" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="504af547:167ed9b7f09:-8000" />
     <option name="version" value="3.3.0" />
   </component>
